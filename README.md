@@ -1,4 +1,4 @@
-# Stock Market Prediction using Machine Learning
+# 📊 Stock Market Prediction using Machine Learning
 this project predicts stock market direction (Up/Down) using machine learning models and historical stock data.
 ---
 ## Project Overview
